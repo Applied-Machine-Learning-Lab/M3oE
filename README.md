@@ -12,4 +12,4 @@ mkdir output
 bash run_MDMT.sh
 ```
 
-The 5 rounds output will be saved under examples/output
+The 5 rounds results will be saved under examples/output
